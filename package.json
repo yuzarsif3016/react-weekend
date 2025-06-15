@@ -1,0 +1,34 @@
+{
+  "name": "nm-react_weekends",
+  "version": "1.0.0",
+  "description": "this is first npm package created project by Yusuf Pathan",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzarsif3016/react-weekend.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "first",
+    "Yusuf"
+  ],
+  "author": "Yusuf Pathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzarsif3016/react-weekend/issues"
+  },
+  "homepage": "https://github.com/yuzarsif3016/react-weekend#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
